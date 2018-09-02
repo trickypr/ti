@@ -11,7 +11,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERION)
+@Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERION, updateJSON = Reference.UPDATEJSON)
 public class Main {
 	@Instance
 	public static Main instance;

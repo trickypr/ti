@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:name_tag"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        }
+    ],
+    "result": {"item":"tinyi:purple_name_tag"}
+}

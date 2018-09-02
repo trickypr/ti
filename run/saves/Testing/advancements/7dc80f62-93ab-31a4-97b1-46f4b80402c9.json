@@ -1,0 +1,15 @@
+{
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-09-01 16:25:09 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-09-01 16:25:09 +1000",
+      "taiga": "2018-09-01 16:25:57 +1000"
+    },
+    "done": false
+  }
+}

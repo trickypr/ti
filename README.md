@@ -17,7 +17,7 @@ My goal for this mod is to add some tiny improvments to minecraft. I am basing a
 - [ ] Add more bears
 - [ ] Have bears atack anything that moves 
 - [ ] Wild breading rabits 
-- [ ] Skelectond should sink 
+- [ ] Skelectons should sink 
 - [ ] Better spidder climbing
 - [ ] Wither skelecton bones
 - [ ] Animal heard ai 
@@ -29,7 +29,7 @@ My goal for this mod is to add some tiny improvments to minecraft. I am basing a
 - [ ] Enderen have green eyes when tehere is no ender dragon
 - [ ] Parots lay eggs
 - [ ] Water bottle dilutes potion effects
-- [ ] Dye name tags 
+- [x] Dye name tags 
 - [ ] Better vilager housing
 - [ ] Swords swing through grass
 - [ ] Lowder blazes
@@ -41,7 +41,7 @@ My goal for this mod is to add some tiny improvments to minecraft. I am basing a
 - [ ] Opening and closing flowers 
 - [ ] Diferent types of chests 
 - [ ] Myselium takeing over other organics
-- [ ] Dekaying leaves drop particals
+- [ ] Decaying leaves drop particals
 - [ ] Change spawners baised on where they are
 - [ ] Pasive drying sponges 
 - [ ] Better fuels

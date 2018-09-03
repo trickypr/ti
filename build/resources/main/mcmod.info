@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tinyi",
+  "name": "Tiny Improvements",
+  "description": "Tiny improvements to minecraft baised on a video made by SimplySarc.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TrickyPR"],
+  "credits": "SimplySarc for inspiration and Loremaster",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

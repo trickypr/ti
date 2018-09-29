@@ -1,8 +1,10 @@
 package com.trickypr.tinyImprovements.util.handlers;
 
+import com.trickypr.tinyImprovements.init.ModBlocks;
 import com.trickypr.tinyImprovements.init.ModItems;
 import com.trickypr.tinyImprovements.util.IHasModel;
 
+import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent.Register;
@@ -16,10 +18,10 @@ public class RegistryHandler {
 		event.getRegistry().registerAll(ModItems.ITEMS.toArray(new Item[0]));
 	}
 	
-	/* @SubscribeEvent
+	@SubscribeEvent
 	public static void onBlockRegister(Register.Register<Block> event) {
 		event.getRegistry().registerAll(ModBlocks.BLOCKS.toArray(new Block[0]));
-	} */
+	}
 	
 	@SubscribeEvent
 	public static void onModelRegister(ModelRegistryEvent event) {
@@ -31,10 +33,10 @@ public class RegistryHandler {
 			}
 		}
 		
-		/* for (Block block : ModBlocks.BLOCKS) {
+		for (Block block : ModBlocks.BLOCKS) {
 			if (block instanceof IHasModel) {
 				((IHasModel)block).regesterModels();
 			}
-		} */
+		} 
 	}
 }

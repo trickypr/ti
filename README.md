@@ -1,4 +1,4 @@
-takingskeleton# Tiny Improvements
+# Tiny Improvements
 My goal for this mod is to add some tiny improvements to Minecraft. I am basing a lot of these ideas off of a [youtube video](https://www.youtube.com/watch?v=NSsac8V3BpA) by
 [SimplySarc](https://www.youtube.com/channel/UCI4Ppudb5EGHNpIYQPVpKdw). Thank you so much for the ideas! :)
 
@@ -9,7 +9,6 @@ My goal for this mod is to add some tiny improvements to Minecraft. I am basing 
 -  [ ] Custom book / tools / armour textures
 -  [ ] Better armour -> nugget smelting
 -  [ ] New mushroom item
--  [ ] Better pigs
 -  [ ] Slower eating
 -  [ ] Snow / iron golem spawn eggs
 -  [ ] Heal golems
@@ -19,7 +18,7 @@ My goal for this mod is to add some tiny improvements to Minecraft. I am basing 
 -  [ ] Wild breading rabbits
 -  [ ] Skeletons should sink
 -  [ ] Better spider climbing
--  [ ] Wither skelecton bones
+-  [ ] Wither skeletons bones
 -  [ ] Animal heard ai
 -  [ ] Swamp wood texture
 -  [ ] Hoe clear leaf blocks in bulk
@@ -42,12 +41,13 @@ My goal for this mod is to add some tiny improvements to Minecraft. I am basing 
 -  [ ] Different types of chests
 -  [ ] Mycelium taking over other organics
 -  [ ] Decaying leaves drop particles
--  [ ] Change spawners based on where they are
+-  [ ] Change spawner textures based on where they are
 -  [ ] Passive drying sponges
 -  [ ] Better fuels
 -  [ ] Cat type based on fish
 -  [ ] Tnt in mineshafts
 -  [ ] Passive mobs
 -  [ ] Enchanting tables keep items
--  [ ] Fading items
--  [ ] Seasons
+
+## People I should probably thank
+ - [jonqrandom](https://github.com/jonqrandom): Providing information about some of the features that should be included. [issue](https://github.com/trickypr/Tiny-Improvments/issues/2)

@@ -13,12 +13,12 @@ import net.minecraft.block.BlockLog;
 import net.minecraft.block.SoundType;
 
 public class EndPodiumBase extends BlockBase {
-	public EndPodiumBase(String name, Material material, CreativeTabs tab) {
-		super(name, material, tab);
+	public EndPodiumBase(String name, CreativeTabs tab) {
+		super(name, Material.BARRIER, tab);
 		
-		setSoundType(SoundType.GROUND);
+		setSoundType(SoundType.STONE);
 		
-		setLightLevel(14);
+		setLightLevel(1f);
 		setBlockUnbreakable();
 	}
 }

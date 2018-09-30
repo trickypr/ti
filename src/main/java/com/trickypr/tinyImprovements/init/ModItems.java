@@ -3,7 +3,6 @@ package com.trickypr.tinyImprovements.init;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.trickypr.tinyImprovements.items.ItemBase;
 import com.trickypr.tinyImprovements.items.tools.NameTag;
 
 import net.minecraft.creativetab.CreativeTabs;

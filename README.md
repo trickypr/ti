@@ -3,51 +3,53 @@ My goal for this mod is to add some tiny improvements to Minecraft. I am basing 
 [SimplySarc](https://www.youtube.com/channel/UCI4Ppudb5EGHNpIYQPVpKdw). Thank you so much for the ideas! :)
 
 ## Improvements still to do
--  [ ] Exit portal / gateway
--  [ ] End crystal texture
--  [ ] Bed based compass
--  [ ] Custom book / tools / armour textures
--  [ ] Better armour -> nugget smelting
--  [ ] New mushroom item
--  [ ] Slower eating
--  [ ] Snow / iron golem spawn eggs
--  [ ] Heal golems
--  [ ] Spread mossy cobble
--  [ ] Add more bears
--  [ ] Have bears attack anything that moves
--  [ ] Wild breading rabbits
--  [ ] Skeletons should sink
--  [ ] Better spider climbing
--  [ ] Wither skeletons bones
--  [ ] Animal heard ai
--  [ ] Swamp wood texture
--  [ ] Hoe clear leaf blocks in bulk
--  [ ] Reduce iron golem spawning requirements
--  [ ] Mob gap jumping
--  [ ] Villager texturing
--  [ ] Enderman have green eyes when there is no ender dragon
--  [ ] Parrots lay eggs
--  [ ] Water bottle dilutes potion effects
--  [x] Dye name tags
--  [ ] Better villager housing
--  [ ] Swords swing through grass
--  [ ] Lowered blazes
--  [ ] firework powered travel
--  [ ] Better book editing
--  [ ] Zombie pig men get angry when quartz is mined
--  [ ] Any shaped nether portals
--  [ ] Hurt to punch some blocks
--  [ ] Opening and closing flowers
--  [ ] Different types of chests
--  [ ] Mycelium taking over other organics
--  [ ] Decaying leaves drop particles
--  [ ] Change spawner textures based on where they are
--  [ ] Passive drying sponges
--  [ ] Better fuels
--  [ ] Cat type based on fish
--  [ ] Tnt in mineshafts
--  [ ] Passive mobs
--  [ ] Enchanting tables keep items
+If you have any ideas or any mods that do the same jobs as some of these thing, please open an issue.
+
+-   [ ] Exit portal / gateway
+-   [ ] End crystal texture
+-   [ ] Bed based compass
+-   [ ] Custom book / tools / armour textures
+-   [ ] Better armour -> nugget smelting
+-   [ ] New mushroom item
+-   [ ] Slower eating
+-   [ ] Snow / iron golem spawn eggs
+-   [ ] Heal golems
+-   [ ] Spread mossy cobble
+-   [ ] Add more bears
+-   [ ] Have bears attack anything that moves
+-   [ ] Wild breading rabbits
+-   [ ] Skeletons should sink
+-   [ ] Better spider climbing
+-   [ ] Wither skeletons bones
+-   [ ] Animal heard ai
+-   [ ] Swamp wood texture
+-   [ ] Hoe clear leaf blocks in bulk
+-   [ ] Reduce iron golem spawning requirements
+-   [ ] Mob gap jumping
+-   [ ] Villager texturing
+-   [ ] Enderman have green eyes when there is no ender dragon
+-   [ ] Parrots lay eggs
+-   [ ] Water bottle dilutes potion effects
+-   [x] Dye name tags
+-   [ ] Better villager housing
+-   [ ] Swords swing through grass
+-   [ ] Lowered blazes
+-   [ ] firework powered travel
+-   [ ] Better book editing
+-   [ ] Zombie pig men get angry when quartz is mined
+-   [ ] Any shaped nether portals
+-   [ ] Hurt to punch some blocks
+-   [ ] Opening and closing flowers
+-   [ ] Different types of chests
+-   [ ] Mycelium taking over other organics
+-   [ ] Decaying leaves drop particles
+-   [ ] Change spawner textures based on where they are
+-   [ ] Passive drying sponges
+-   [ ] Better fuels
+-   [ ] Cat type based on fish
+-   [ ] Tnt in mineshafts
+-   [ ] Passive mobs
+-   [ ] Enchanting tables keep items
 
 ## People I should probably thank
  - [jonqrandom](https://github.com/jonqrandom): Providing information about some of the features that should be included. [issue](https://github.com/trickypr/Tiny-Improvments/issues/2)

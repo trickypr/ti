@@ -3,13 +3,10 @@ package com.trickypr.tinyImprovements.init;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.trickypr.tinyImprovements.blocks.BlockBase;
 import com.trickypr.tinyImprovements.blocks.EndPodiumBase;
 
 import net.minecraft.block.Block;
-import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
 
 public class ModBlocks {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();

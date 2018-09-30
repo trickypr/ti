@@ -55,4 +55,4 @@ If you have any ideas or any mods that do the same jobs as some of these thing, 
 -   [ ] Enchanting tables keep items
 
 ## People I should probably thank
- - [jonqrandom](https://github.com/jonqrandom): Providing information about some of the features that should be included. [issue](https://github.com/trickypr/Tiny-Improvments/issues/2)
+-  [jonqrandom](https://github.com/jonqrandom): Providing information about some of the features that should be included. [issue](https://github.com/trickypr/Tiny-Improvments/issues/2)

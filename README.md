@@ -8,7 +8,7 @@ My goal for this mod is to add some tiny improvements to Minecraft. I am basing 
 ## Improvements still to do
 If you have any ideas or any mods that do the same jobs as some of these thing, please open an issue.
 
--   [ ] Exit portal / gateway
+-   [-] Exit portal / gateway (basis for blocks are built, watcing to see what will hapen with 1.13 terain gen)
 -   [ ] End crystal texture
 -   [ ] Bed based compass
 -   [ ] Custom book / tools / armour textures

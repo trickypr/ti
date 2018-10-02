@@ -13,7 +13,7 @@ If you have any ideas or any mods that do the same jobs as some of these thing, 
 -   [ ] Bed based compass
 -   [ ] Custom book / tools / armour textures
 -   [ ] Better armour -> nugget smelting
--   [ ] New mushroom item
+-   [ ] New mushroom animal
 -   [ ] Slower eating
 -   [ ] Snow / iron golem spawn eggs
 -   [ ] Heal golems

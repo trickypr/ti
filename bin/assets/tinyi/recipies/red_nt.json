@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:rose_red"
+        },
+        {
+            "item": "minecraft:name_tag"
+        }
+    ],
+    "result": {
+        "item": "tinyi:red_name_tag"
+    }
+}

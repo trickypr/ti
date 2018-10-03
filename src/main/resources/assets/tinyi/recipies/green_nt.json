@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cactus_green"
+        },
+        {
+            "item": "minecraft:name_tag"
+        }
+    ],
+    "result": {
+        "item": "tinyi:green_name_tag"
+    }
+}

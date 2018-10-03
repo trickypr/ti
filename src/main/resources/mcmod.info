@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "tinyi",
+  "name": "Tiny Improvements",
+  "description": "Tiny improvements to minecraft baised on a video made by SimplySarc.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["TrickyPR"],
+  "credits": "SimplySarc for inspiration and Loremaster",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

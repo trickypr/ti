@@ -3,6 +3,7 @@ package com.trickypr.tinyImprovements.init;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.trickypr.tinyImprovements.items.tools.BedCompass;
 import com.trickypr.tinyImprovements.items.tools.NameTag;
 
 import net.minecraft.creativetab.CreativeTabs;
@@ -27,4 +28,7 @@ public class ModItems {
 	public static final Item NT_MAGENTA = new NameTag("magenta_name_tag", CreativeTabs.TOOLS, "§d");
 	public static final Item NT_ORANGE = new NameTag("orange_name_tag", CreativeTabs.TOOLS, "§6");
 	public static final Item NT_BLACK = new NameTag("black_name_tag", CreativeTabs.TOOLS, "§0");
+	
+	// Testing
+	public static final Item BED_COMPASS = new BedCompass("bed_compass", CreativeTabs.TOOLS);
 }

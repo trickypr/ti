@@ -30,5 +30,5 @@ public class ModItems {
 	public static final Item NT_BLACK = new NameTag("black_name_tag", CreativeTabs.TOOLS, "§0");
 	
 	// Testing
-	public static final Item BED_COMPASS = new BedCompass("bed_compass", CreativeTabs.TOOLS);
+	//  public static final Item BED_COMPASS = new BedCompass("bed_compass", CreativeTabs.TOOLS);
 }

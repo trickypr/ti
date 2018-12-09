@@ -54,7 +54,7 @@ public class BedCompass extends ItemBase {
                     {
                         double d1 = flag ? (double)entity.rotationYaw : this.getFrameRotation((EntityItemFrame)entity);
                         d1 = MathHelper.positiveModulo(d1 / 360.0D, 1.0D);
-                        double d2 = this.getSpawnToAngle(worldIn, entity) / (Math.PI * 2D);
+                        double d2 = this.getSpawnToAngle(worldIn, (EntityPlayer)entity) / (Math.PI * 2D);
                         d0 = 0.5D - (d1 - 0.25D - d2);
                     }
                     else
@@ -91,10 +91,9 @@ public class BedCompass extends ItemBase {
                 return (double)MathHelper.wrapDegrees(180 + p_185094_1_.facingDirection.getHorizontalIndex() * 90);
             }
             @SideOnly(Side.CLIENT)
-            private double getSpawnToAngle(World p_185092_1_, Entity p_185092_2_)
+            private double getSpawnToAngle(World p_185092_1_, EntityPlayer p_185092_2_)
             {
-            	EntityPlayer closestEntity = p_185092_1_.getClosestPlayerToEntity(p_185092_2_, 5);
-            	BlockPos blockpos = closestEntity.getBedLocation();
+              	BlockPos blockpos = p_185092_2_.getBedLocation(p_185092_2_.dimension);
                 return Math.atan2((double)blockpos.getZ() - p_185092_2_.posZ, (double)blockpos.getX() - p_185092_2_.posX);
             }
         });

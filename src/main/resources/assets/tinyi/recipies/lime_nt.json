@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:name_tag"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        }
+    ],
+    "result": {"item":"tinyi:lime_name_tag"}
+}

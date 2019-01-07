@@ -1,4 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b676be8531fe473d9d4f61904db8449a)](https://app.codacy.com/app/TrickyPR/Tiny-Improvments?utm_source=github.com&utm_medium=referral&utm_content=trickypr/Tiny-Improvments&utm_campaign=Badge_Grade_Dashboard)
+[![Build Status](https://travis-ci.com/trickypr/Tiny-Improvments.svg?branch=master)](https://travis-ci.com/trickypr/Tiny-Improvments)
 
 # Tiny Improvements
 

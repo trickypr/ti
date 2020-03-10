@@ -1,6 +1,0 @@
-{
-   "parent": "item/generated",
-   "textures": {
-       "layer0": "tinyi:items/light_grey_name_tag"
-   }
-}

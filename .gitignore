@@ -1,0 +1,7 @@
+bin/
+.gradle/
+build/
+run/
+.vscode/launch.json
+.classpath
+.settings
